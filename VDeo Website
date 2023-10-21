@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<center>
+
+<style>
+div 
+{
+background-color: white;
+width: 80px;
+padding: 10px;
+margin: 5px;
+border: 5px solid #D8FFF2;
+}
+</style>
+
+<div>
+<font size="10" color="#D8FFF3">
+VDeo
+</font>
+</div>
+
+<body bgcolor="#DAFFF3">
+
+<style>
+h2 { 
+font-family: Garamond, serif;
+}
+</style>
+
+</br>
+</br>
+</br>
+</br>
+<h2>Me at the Zoo</h2>
+<img src="https://i.ytimg.com/vi/jNQXAC9IVRw/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AoAC8AGKAgwIABABGGUgZShlMA8=&rs=AOn4CLAr8FJO_tyImw0fE_qbdh1wSHZFmg">
+</br>
+<a href="https://www.youtube.com/watch?v=jNQXAC9IVRw&vl=en"> Me at the Zoo</a>
+</br>
+</br>
+</br>
+<h2>Planting a Tree</h2>
+<img src="https://i.ytimg.com/vi/thYg0GP8qsM/maxresdefault.jpg">
+</br>
+<a href="https://www.youtube.com/watch?v=thYg0GP8qsM">Planting a Tree</a>
+</br>
+</br>
+</br>
+<h2>Sewing Socks</h2>
+<img src="https://i.ytimg.com/vi/hlN9Lck71Fw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCzxlkKt_NAWqj3WIj7_JIcHq_HWQ" >
+</br>
+<a href="https://www.youtube.com/watch?v=hlN9Lck71Fw">Sewing Socks
+</br>
+</br>
+</br>
+
+</font>
+</body>
+
+</center>
+</html>
